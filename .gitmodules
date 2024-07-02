@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Harshal2703/TunnelExpress_backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Harshal2703/TunnelExpress_frontend
+[submodule "TunnelExpress_Client"]
+	path = TunnelExpress_Client
+	url = https://github.com/Harshal2703/TunnelExpress_client
